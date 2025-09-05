@@ -1,0 +1,7 @@
+# This directory will contain Drizzle migration files
+# 
+# Migration files are automatically generated when you run:
+# bunx drizzle-kit generate
+#
+# They contain SQL statements to update your database schema
+# and should be committed to version control.
